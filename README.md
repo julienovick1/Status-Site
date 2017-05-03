@@ -18,43 +18,43 @@ Elevator Pitch: Time is a Princeton student's most precious resource. We have cl
 
 ## Timeline
 
-# March 13-17
+### March 13-17
 
 - Complete design document 
 - Create project status website 
 
-# March 20-24
+### March 20-24
 
 - Complete tutorials for different technologies in our project 
 
-# March 27-31
+### March 27-31
 
 - Decide where to host and which platforms to use 
 - Create basic web app 
 
-# April 3-7
+### April 3-7
 
 - Basic front end design 
 
-# April 10-14
+### April 10-14
 
 - Finalize front-end design 
 
-# April 17-21
+### April 17-21
 
 - Get historical data from OIT 
 - Figure out how to store, filter, and display data on the app 
 
-# April 24-28
+### April 24-28
 
 - Continue integrating data into user interface 
 - Get live data from OIT? 
 
-# May 1-5
+### May 1-5
 
 - Fine tune data/design 
 
-# May 8-12
+### May 8-12
 
 - Finishing touches 
 

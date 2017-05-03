@@ -1,9 +1,3 @@
-# waitLess Status Site
-
-You can use the [editor on GitHub](https://github.com/julienovick1/julienovick1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## Team
 
 Members: Amy Liu (amy.liu), Emily Hedlund (ehedlund), Julie Novick-Lederer (julieen), Maya Phillips (mayap) 
@@ -13,6 +7,14 @@ Project Manager: Ghassen Jerfel
 ## About
 
 Elevator Pitch: Time is a Princeton student's most precious resource. We have classes, practices, rehearsals, office hours, group project meetups, study breaks, advising appointments, and obligatory naps. Often, we try to squeeze as much as we can into the few moments of free time we have in our schedules. The worst feeling is having a mere ten minutes to grab some lunch and spending eight of those minutes waiting in line for the salad bar, or thinking we have time for a quick workout between classes only to find out that there are no treadmills available. We've all been caught in these situations, so wouldn’t it be nice to know how busy these spots are before we show up? The busiest spaces on Princeton’s campus are the dining halls, libraries, and gym. waitLess monitors the traffic in these spaces, giving Princeton students the ability to maximize their free time.
+
+## Links
+
+https://docs.google.com/a/princeton.edu/presentation/d/1D49nCgvWESstfB9QUMtXxnm52U5pNrmYblbt3KwgHwE/edit?usp=sharing
+
+https://docs.google.com/a/princeton.edu/document/d/1476yIvrysoZpfoRFtc7sibctsE8Gucge8k9ndyCUynw/edit?usp=sharing
+
+https://docs.google.com/a/princeton.edu/document/d/1w1V-F0u9m747HOLHpFvMxpzry840GZCjKiJ9ez4-oqo/edit?usp=sharing
 
 ## Timeline
 

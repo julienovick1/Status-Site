@@ -60,11 +60,11 @@ https://docs.google.com/a/princeton.edu/document/d/1w1V-F0u9m747HOLHpFvMxpzry840
 
 ## Deadlines
 
-3/19 Design Document 
-3/27 Project Status Website 
-4/14 Prototype 
-4/28 Alpha Test 
-5/5 Beta Test 
-5/10 Project Demo 
-5/14 Final Submission 
-5/16 Peer Ratings 
+- 3/19 Design Document 
+- 3/27 Project Status Website 
+- 4/14 Prototype 
+- 4/28 Alpha Test 
+- 5/5 Beta Test 
+- 5/10 Project Demo 
+- 5/14 Final Submission 
+- 5/16 Peer Ratings 

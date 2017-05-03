@@ -10,11 +10,11 @@ Elevator Pitch: Time is a Princeton student's most precious resource. We have cl
 
 ## Links
 
-https://docs.google.com/a/princeton.edu/presentation/d/1D49nCgvWESstfB9QUMtXxnm52U5pNrmYblbt3KwgHwE/edit?usp=sharing
+- https://docs.google.com/a/princeton.edu/presentation/d/1D49nCgvWESstfB9QUMtXxnm52U5pNrmYblbt3KwgHwE/edit?usp=sharing
 
-https://docs.google.com/a/princeton.edu/document/d/1476yIvrysoZpfoRFtc7sibctsE8Gucge8k9ndyCUynw/edit?usp=sharing
+- https://docs.google.com/a/princeton.edu/document/d/1476yIvrysoZpfoRFtc7sibctsE8Gucge8k9ndyCUynw/edit?usp=sharing
 
-https://docs.google.com/a/princeton.edu/document/d/1w1V-F0u9m747HOLHpFvMxpzry840GZCjKiJ9ez4-oqo/edit?usp=sharing
+- https://docs.google.com/a/princeton.edu/document/d/1w1V-F0u9m747HOLHpFvMxpzry840GZCjKiJ9ez4-oqo/edit?usp=sharing
 
 ## Timeline
 

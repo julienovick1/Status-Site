@@ -1,8 +1,8 @@
 ## Team
 
-Members: Amy Liu (amy.liu), Emily Hedlund (ehedlund), Julie Novick-Lederer (julieen), Maya Phillips (mayap) 
-Project Leader: Julie Novick-Lederer 
-Project Manager: Ghassen Jerfel
+- Members: Amy Liu (amy.liu), Emily Hedlund (ehedlund), Julie Novick-Lederer (julieen), Maya Phillips (mayap) 
+- Project Leader: Julie Novick-Lederer 
+- Project Manager: Ghassen Jerfel
 
 ## About
 

@@ -10,13 +10,11 @@ Elevator Pitch: Time is a Princeton student's most precious resource. We have cl
 
 ## Links
 
-[I'm an inline-style link with title](https://docs.google.com/a/princeton.edu/presentation/d/1D49nCgvWESstfB9QUMtXxnm52U5pNrmYblbt3KwgHwE/edit?usp=sharing "Demo Deck")
+[Demo Deck](https://docs.google.com/a/princeton.edu/presentation/d/1D49nCgvWESstfB9QUMtXxnm52U5pNrmYblbt3KwgHwE/edit?usp=sharing "Demo Deck")
 
-- https://docs.google.com/a/princeton.edu/presentation/d/1D49nCgvWESstfB9QUMtXxnm52U5pNrmYblbt3KwgHwE/edit?usp=sharing
+[Report](https://docs.google.com/a/princeton.edu/document/d/1476yIvrysoZpfoRFtc7sibctsE8Gucge8k9ndyCUynw/edit?usp=sharing "Report")
 
-- https://docs.google.com/a/princeton.edu/document/d/1476yIvrysoZpfoRFtc7sibctsE8Gucge8k9ndyCUynw/edit?usp=sharing
-
-- https://docs.google.com/a/princeton.edu/document/d/1w1V-F0u9m747HOLHpFvMxpzry840GZCjKiJ9ez4-oqo/edit?usp=sharing
+[Project Guide](https://docs.google.com/a/princeton.edu/document/d/1w1V-F0u9m747HOLHpFvMxpzry840GZCjKiJ9ez4-oqo/edit?usp=sharing "Project Guide")
 
 ## Timeline
 

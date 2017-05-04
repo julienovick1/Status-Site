@@ -1,5 +1,3 @@
-# waitLess Princeton Status Site
-
 ## Team
 
 - Members: Amy Liu (amy.liu), Emily Hedlund (ehedlund), Julie Novick-Lederer (julieen), Maya Phillips (mayap) 

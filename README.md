@@ -10,6 +10,8 @@ Elevator Pitch: Time is a Princeton student's most precious resource. We have cl
 
 ## Links
 
+[Design Document](https://docs.google.com/a/princeton.edu/document/d/1FLSPks_vUHoujeEYJY_weMiFwID7cIqQxkSf5LIpFtg/edit?usp=sharing "Design Document")
+
 [Demo Deck](https://docs.google.com/a/princeton.edu/presentation/d/1D49nCgvWESstfB9QUMtXxnm52U5pNrmYblbt3KwgHwE/edit?usp=sharing "Demo Deck")
 
 [Report](https://docs.google.com/a/princeton.edu/document/d/1476yIvrysoZpfoRFtc7sibctsE8Gucge8k9ndyCUynw/edit?usp=sharing "Report")

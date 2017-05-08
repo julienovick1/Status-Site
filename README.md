@@ -60,6 +60,29 @@ Elevator Pitch: Time is a Princeton student's most precious resource. We have cl
 
 - Finishing touches 
 
+## Demo Slides Outline
+
+### Motivation
+- Pitch
+### Goal
+### Market
+- Is there a need for our product?
+- Who would uses our product?
+### General design
+### Key Features
+### How to use our app
+- Should we make a video for this?
+### Process Overview: how we did it
+- Database/CSV processing
+-High level architecture
+### Frontend
+- Heroku
+- Leaflet
+- Templates
+- Views
+### Live demo (2.5 min)
+### Questions (5 min) 
+
 ## Deadlines
 
 - 3/19 Design Document 

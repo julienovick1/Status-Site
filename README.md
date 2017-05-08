@@ -68,19 +68,19 @@ Elevator Pitch: Time is a Princeton student's most precious resource. We have cl
 ### Market
 - Is there a need for our product?
 - Who would uses our product?
-### General design
+### General Design
 ### Key Features
-### How to use our app
+### How to Use Our App
 - Should we make a video for this?
-### Process Overview: how we did it
+### Process Overview: How We Did It
 - Database/CSV processing
--High level architecture
+- High level architecture
 ### Frontend
 - Heroku
 - Leaflet
 - Templates
 - Views
-### Live demo (2.5 min)
+### Live Demo (2.5 min)
 ### Questions (5 min) 
 
 ## Deadlines
